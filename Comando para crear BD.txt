@@ -1,0 +1,12 @@
+(borrar carpeta migration del proyecto si ya tiene algo)
+
+Add-Migration "nombre_cualquiera_BD" (sin comillas)
+
+Update-Database
+
+
+(si ya hay una BD y solo se quiere agregar algo y se tiene que crear una tabla)
+
+Add-Migration "nombre tabla"
+
+Update-Database
