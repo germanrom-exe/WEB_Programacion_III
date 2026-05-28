@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRQsrGvUMxk=",
+  "success": true,
+  "projectFilePath": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-02_MateriasTUP\\TP-02_MateriasTUP\\TP-02_MateriasTUP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Germán Romero\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.8\\microsoft.entityframeworkcore.10.0.8.nupkg.sha512",
+    "C:\\Users\\Germán Romero\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.8\\microsoft.entityframeworkcore.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\Germán Romero\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.8\\microsoft.entityframeworkcore.analyzers.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

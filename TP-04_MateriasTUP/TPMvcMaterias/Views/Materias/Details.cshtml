@@ -1,0 +1,20 @@
+﻿@model TPMvcMaterias.Models.Materia
+
+<h1>@Model.Nombre</h1>
+
+<h3>Profesor</h3>
+
+<p>@Model.Profesor.Nombre</p>
+
+<h3>Alumnos</h3>
+
+<ul>
+    @foreach (var alumno in Model.Alumnos)
+    {
+        <li>@alumno.Nombre</li>
+    }
+</ul>
+
+<a asp-action="Index">
+    Volver
+</a>

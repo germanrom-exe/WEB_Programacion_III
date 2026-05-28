@@ -1,0 +1,71 @@
+﻿@model TPMvcMaterias.Login.RegisterViewModel
+
+<h1>Registro</h1>
+
+<form method="post">
+
+    <div class="mb-3">
+        <label>Nombre</label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Apellido</label>
+        <input asp-for="Apellido" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Correo</label>
+        <input asp-for="Correo" class="form-control" />
+        <span asp-validation-for="Correo"
+              class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Legajo</label>
+        <input asp-for="Legajo" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Password</label>
+        <input asp-for="Password"
+               type="password"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Repetir Password</label>
+        <input asp-for="RepetirPassword"
+               type="password"
+               class="form-control" />
+
+        <span asp-validation-for="RepetirPassword"
+              class="text-danger"></span>
+    </div>
+
+    <button type="submit"
+            class="btn btn-success">
+        Registrarse
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary ms-2">
+        Volver
+    </a>
+
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <p class="text-danger">
+        @ViewBag.Error
+    </p>
+}
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

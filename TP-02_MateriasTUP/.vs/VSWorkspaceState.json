@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TPMvcMaterias",
+    "\\TPMvcMaterias\\Controllers",
+    "\\TPMvcMaterias\\Data",
+    "\\TPMvcMaterias\\Migrations",
+    "\\TPMvcMaterias\\Models",
+    "\\TPMvcMaterias\\Services",
+    "\\TPMvcMaterias\\Views",
+    "\\TPMvcMaterias\\Views\\Home",
+    "\\TPMvcMaterias\\Views\\Materias"
+  ],
+  "SelectedNode": "\\TPMvcMaterias\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

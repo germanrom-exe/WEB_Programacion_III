@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Migrations\\20260528182141_BaseDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPMvcMaterias\\Migrations\\20260528182141_BaseDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\services\\materiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\services\\materiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\views\\materias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\views\\materias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\views\\materias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|d:\\bibliotecas\\escritorio\\utn\\webparaprog3\\tup 2026\\web para prog3\\tp-04_materiastup\\tpmvcmaterias\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B512345-3654-75B9-A610-9E8303C49CA7}|TPMvcMaterias\\TPMvcMaterias.csproj|solutionrelative:tpmvcmaterias\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260528182141_BaseDatos.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Migrations\\20260528182141_BaseDatos.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Migrations\\20260528182141_BaseDatos.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Migrations\\20260528182141_BaseDatos.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Migrations\\20260528182141_BaseDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T18:21:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Program.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Program.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Program.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T03:47:09.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T03:46:11.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Views\\Materias\\Details.cshtml",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Views\\Materias\\Details.cshtml",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Views\\Materias\\Details.cshtml",
+              "RelativeToolTip": "TPMvcMaterias\\Views\\Materias\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T02:05:14.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Views\\Materias\\Index.cshtml",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Views\\Materias\\Index.cshtml",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Views\\Materias\\Index.cshtml",
+              "RelativeToolTip": "TPMvcMaterias\\Views\\Materias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T01:25:59.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MateriaService.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Services\\MateriaService.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Services\\MateriaService.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Services\\MateriaService.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Services\\MateriaService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:17:00.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\appsettings.json",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\appsettings.json",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\appsettings.json",
+              "RelativeToolTip": "TPMvcMaterias\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T03:50:10.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TPMvcMaterias\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-28T07:44:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Controllers\\MateriasController.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Controllers\\MateriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:24:10.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Models\\Materia.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Models\\Materia.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Models\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:07:41.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Models\\Profesor.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Models\\Profesor.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Models\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:07:28.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "TPMvcMaterias\\Models\\Alumno.cs",
+              "ToolTip": "D:\\Bibliotecas\\Escritorio\\UTN\\WEBparaPROG3\\TUP 2026\\WEB para PROG3\\TP-04_MateriasTUP\\TPMvcMaterias\\Models\\Alumno.cs",
+              "RelativeToolTip": "TPMvcMaterias\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T01:07:16.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

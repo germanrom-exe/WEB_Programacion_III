@@ -1,0 +1,31 @@
+@model List<TP_02_MateriasTUP.Models.Materia>
+
+<h1>Materias TUP</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Materia</th>
+            <th>Profesor</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var materia in Model)
+        {
+            <tr>
+                <td>@materia.Nombre</td>
+
+                <td>@materia.Profesor.Nombre</td>
+
+                <td>
+                    <a asp-action="Details"
+                       asp-route-id="@materia.Id">
+                        Ver detalle
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
